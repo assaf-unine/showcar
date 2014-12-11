@@ -6,6 +6,10 @@
 background: ##C0C0C0;
 }
 
+#my-header{
+	margin-top: 10px;
+}
+
 .ui-icon.ui-icon-arrow-r {
 background-color:rgb(136, 111, 110);
 }
