@@ -4,7 +4,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.healthcare-portal"
-        version   = "1.0.0">
+        version   = "0.0.1">
 
     <name>Show Car</name>
 
@@ -12,7 +12,7 @@
         Show Car ins a mini project developped during the Web Eng module (Master BeNeFri).
     </description>
 
-    <author href="http://phonegap.com" email="assaf.unine@hotmail.com">
+    <author email="dev@fluance.net" href="http://www.fluance.ch">
         Mahmoud Assaf
     </author>
 
